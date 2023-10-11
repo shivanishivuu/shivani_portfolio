@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
           </div>
           <div className={styles.row}> 
           <div className={styles.container}> 
-          <a  href = "mailto:shahsank.kf314@gmail.com" className ={shadow.join(' ')} > Say Hello </a>
+          <a  href = "mailto:shivaniui4694@gmail.com" className ={shadow.join(' ')} > Say Hello </a>
            </div>
           </div>
   </div>

@@ -1,0 +1,51 @@
+
+
+.hoverInShadow{
+    position: relative;
+    z-index: 1;
+}
+
+.hoverInShadow:hover{
+    box-shadow: var(--inner-shadow);
+}
+
+.outerShadow{
+    box-shadow: var(--outer-shadow);
+}
+
+.Contact {
+    
+    padding:0px 0 80px;
+    min-height: 50vh;
+}
+
+.ContactTitle{
+    padding:0 15px; 
+    flex:0 0 100%;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.ContactTitle h2{
+    display: inline-block;
+    font-size:30px;
+    font-weight: 700;
+    color:black;
+    text-transform: uppercase;
+    margin:0
+
+}
+
+.container{
+    flex:0 0 100%;
+    text-align: center;
+}
+
+.btn1{
+    padding:10px 25px;font-size:16px;font-weight: 500;color:#ff8964;
+    background-color: transparent;
+    line-height: 1.5;
+    cursor:pointer;
+    border-radius:30px;
+    transition: all 0.3s ease;
+}
